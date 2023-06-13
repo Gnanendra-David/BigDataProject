@@ -126,3 +126,5 @@ du -h --max-depth=1 | grep 'M"
 ##avoid a follow up questions##
 #sometimes overcommunicate better#
 #dont over explain#
+
+#this is new

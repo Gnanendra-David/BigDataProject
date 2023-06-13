@@ -129,4 +129,10 @@ du -h --max-depth=1 | grep 'M"
 
 #this is new
 
+#<<<<<<< dev
 # hey dev omkar here
+#=======
+# hey dev
+
+#Hi this is omkar made some changes
+#>>>>>>> main
